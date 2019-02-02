@@ -2,6 +2,6 @@
 
 ## Spec
 
-## TODO
+## Smoke tests
 
 ## Referencje
